@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "528581634372",
+    "project_id": "mental-wellness-tracker-2e970",
+    "storage_bucket": "mental-wellness-tracker-2e970.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528581634372:android:5d15323c34fdcbc9d98f11",
+        "android_client_info": {
+          "package_name": "com.example.mental_wellness_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DX9yqABcap4zkoA3vlEOtAOC3sjEuxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528581634372:android:003ab065af10d12dd98f11",
+        "android_client_info": {
+          "package_name": "com.example.menti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4DX9yqABcap4zkoA3vlEOtAOC3sjEuxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
